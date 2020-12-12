@@ -1,5 +1,8 @@
 # talkeroo
 
+# Community Chat & Lobby
+https://gitter.im/talkeroo/community
+
 # Agenda for every group meeting
 - Briefly introduce yourself, tell about your background
 - Talk about the main Question
