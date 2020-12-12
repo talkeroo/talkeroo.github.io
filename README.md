@@ -1,5 +1,9 @@
 # talkeroo
 
+This is an experiment where random groups of 3-4 people talk about climate change in a video call for 1h per week. The purpose is to break out of your bubble a bit and talk to unknown but interested people. If this happens regularly, good ideas, knowledge and insights should be spread among all participants.
+
+If you want to participate, check out the calender for the next date. Then add your name into the organization spreadsheet.
+
 # Community Chat & Lobby
 https://gitter.im/talkeroo/community
 
