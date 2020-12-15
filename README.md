@@ -13,7 +13,8 @@ https://gitter.im/talkeroo/community
 - Look at the talking time stats in Jitsi
 
 # Organization Spreadsheet
-https://docs.google.com/spreadsheets/d/1OzpwwefG8LosKAnBymcRKrNwJ9KKMm1kex0ADpcph5k
+- short link: https://bit.ly/talkeroo-sheet
+- long link: https://docs.google.com/spreadsheets/d/1OzpwwefG8LosKAnBymcRKrNwJ9KKMm1kex0ADpcph5k
 
 
 # Calendar
