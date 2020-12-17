@@ -18,4 +18,5 @@ https://gitter.im/talkeroo/community
 
 
 # Calendar
-https://calendar.google.com/calendar/ical/hevtkls0793af5ud8247crr1kc%40group.calendar.google.com/public/basic.ics
+- View Calendar / Add to google: https://calendar.google.com/calendar/embed?src=hevtkls0793af5ud8247crr1kc%40group.calendar.google.com
+- iCal: https://calendar.google.com/calendar/ical/hevtkls0793af5ud8247crr1kc%40group.calendar.google.com/public/basic.ics
