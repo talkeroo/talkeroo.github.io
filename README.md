@@ -7,6 +7,9 @@ If you want to participate, check out the calender for the next date. Then add y
 # Community Chat & Lobby
 https://gitter.im/talkeroo/community
 
+# Newsletter
+- https://emailoctopus.com/lists/23acf6b9-4464-11eb-a3d0-06b4694bee2a/forms/subscribe
+
 # Agenda for every group meeting
 - Briefly introduce yourself, tell about your background
 - Talk about the main Question
